@@ -476,4 +476,13 @@ To identify trends and support decision-making.
 This Superstore Data Analysis project demonstrates the use of Python for business analytics. By performing data cleaning, visualization, and correlation analysis, valuable insights can be extracted from retail data. The project highlights sales trends, profit patterns, discount impacts, and operational efficiency, enabling data-driven business decisions.
 
 The analysis serves as a foundation for advanced analytics, predictive modeling, and business intelligence solutions.
+<img width="1013" height="691" alt="image" src="https://github.com/user-attachments/assets/a41d32a3-65ae-4ab5-be53-41139eb92acb" />
+<img width="1003" height="617" alt="image" src="https://github.com/user-attachments/assets/92d2c212-4879-4313-96d0-b5512aefeff7" />
+<img width="958" height="577" alt="image" src="https://github.com/user-attachments/assets/4e573d90-3626-474a-8a88-34df0cd29a6f" />
+<img width="982" height="628" alt="image" src="https://github.com/user-attachments/assets/5c1046b3-4143-4584-8a1b-9392e046b871" />
+<img width="873" height="558" alt="image" src="https://github.com/user-attachments/assets/495b44c2-a035-43f4-8f7c-e5d4ad8e0649" />
+<img width="982" height="580" alt="image" src="https://github.com/user-attachments/assets/5b92a189-3c89-4667-9e7a-ff0245d0db72" />
+<img width="836" height="572" alt="image" src="https://github.com/user-attachments/assets/c7162bc7-b14c-4606-ab98-74b3a230745a" />
+<img width="835" height="646" alt="image" src="https://github.com/user-attachments/assets/732467fe-a12e-4d0d-9631-7ea895b92ce2" />
+
 
